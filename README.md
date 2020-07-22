@@ -1,6 +1,4 @@
-Wake up, `$name`...
-
-Knock, knock, `$name`.
+[![wakeup](https://raw.githubusercontent.com/crazko/crazko/master/wakeup.gif)](https://github.com/crazko/use-dencrypt-effect)
 
 <!--
 **crazko/crazko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
